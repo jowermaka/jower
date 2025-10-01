@@ -6,7 +6,7 @@
 ![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
 ![](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg)
 
-# About CFAI(Counterfactual Explanation for AI on Pytorch)
+# About CFAI(Counterfactual Explanation for AI on Pytorch) 
 
 Counterfactual explanations mainly target to find the mimimum perturbation which changes the original prediction(Ususlly from an undesirable prediction to ideal one). The perturbation itself is a valid instance following the real data distribution as the training samples. It has broad applications, E.g., finance, education, health care ect. Specifically, what should I do to get the credit card approved if I received the rejection.
 
