@@ -22,7 +22,7 @@ setup(
     name = 'counterfactual_explanations',
     package = find_packages(),
     #package_data = {'wang':['data/test.txt']},
-    #py_modules = ['module1', 'module2'],
+    #py_modules = ['module1', 'module2'], 
     version='0.1.0',
     #install_requires=[
     #    'pyjokes > 0.5'
